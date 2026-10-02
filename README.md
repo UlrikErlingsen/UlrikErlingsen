@@ -5,7 +5,7 @@ I build open, local-first tools for marketing evidence and for Norwegian busines
 <table><tr>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/UlrikErlingsen/signal-hub/main/signal-theme/assets/marks/signalhub-mark-64.png" width="40" alt=""><br>
-<strong>Signal</strong>: a marketing-evidence suite. Nineteen small apps for brand, market, customer, research and decision work.<br><br>
+<strong>Signal</strong>: a marketing-evidence suite. Twenty small apps for brand, market, customer, research and decision work.<br><br>
 <a href="https://github.com/UlrikErlingsen/signal-hub">Open Signal Hub →</a>
 </td>
 <td width="50%" valign="top">
